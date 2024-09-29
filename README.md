@@ -1,6 +1,6 @@
 # AID 컴퓨터 비전&딥러닝 기초 스터디
 
-# 규칙
+## 규칙
 ex) <br>
 매주 금요일 2시
 
@@ -14,7 +14,7 @@ Chapter2|[데이터다루기](https://velog.io/@wjddmlcks22/CH02-데이터다루
 ## 질문
 [질문 템플릿](./question/README.md)
 
-# 멤버
+## 멤버
 ex)
 - [양준영](https://github.com/Neibce)
 - [이름](깃허브 링크)
