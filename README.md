@@ -17,4 +17,5 @@ ex)
 ## 멤버
 ex)
 - [양준영](https://github.com/Neibce)
+- [김주송](https://github.com/jooiss)
 - [이름](깃허브 링크)
