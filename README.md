@@ -8,7 +8,7 @@ ex) <br>
 ex)
 일시|챕터|링크|발표자
 --|--|--|--
-24.10.00|Chapter2|[데이터다루기](https://velog.io/@wjddmlcks22/CH02-데이터다루기)|ㅇㅇㅇ
+24.10.04|Chapter2|[1. 기본개념과 도구]((https://colab.research.google.com/drive/15YOxlvXt8QcgVdu_VDuvAmcOLkWoIXo-?usp=sharing))|
 24.10.00|챕터|[챕터명](링크)|ㅁㅁㅁ
 
 ## 질문
