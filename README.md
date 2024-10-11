@@ -11,7 +11,7 @@
 --|--|--|--
 24.10.04|Chapter1|[기본개념과 도구](https://colab.research.google.com/drive/15YOxlvXt8QcgVdu_VDuvAmcOLkWoIXo-?usp=sharing)|홍윤아
 24.10.11|chapter2|[2.1 이미지란](https://handsomely-guavaberry-1b0.notion.site/2-11ac95f40c5d8024b6d0f2a619388b6a?pvs=4)|홍윤아
-24.10.11|Chapter2|[2.2 이미지 처리 기법] (https://cord-vacuum-5ac.notion.site/2-2-117f9fef1c1480b19dece0cb26fd9e14?pvs=4)|강지원
+24.10.11|Chapter2|[2.2 이미지 처리 기법](https://cord-vacuum-5ac.notion.site/2-2-117f9fef1c1480b19dece0cb26fd9e14?pvs=4)|강지원
 
 ## 질문
 [질문 템플릿](./question/README.md)
